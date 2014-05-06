@@ -1,5 +1,5 @@
 angular.module('simperiumAngular', []).
-config(function(){
+config(function(simperiumCred){
 	console.log(simperiumCred)
 //	var simperium = new Simperium('SIMPERIUM_APP_ID', { token : 'SIMPERIUM_ACCESS_TOKEN'});
 }).
