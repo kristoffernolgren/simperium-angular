@@ -1,0 +1,22 @@
+{
+  "name": "simperium-angular",
+  "version": "0.0.0",
+  "authors": [
+    "Kristoffer Nolgren <kirstoffer@nolgren.se>"
+  ],
+  "description": "An angular wrapper for simperium",
+  "keywords": [
+    "angular",
+    "simperium",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.zenconomy.se/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
